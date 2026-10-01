@@ -5,3 +5,5 @@ This Project Submitted by :<br>
             Team Leader   /   <b>Nishanth A</b> <br>
                  Member   /    <b>Kishore S</b>
 </pre>
+College Name : Jaya Sakthi Engineering College<br>
+Project Name : NM Project
